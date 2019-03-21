@@ -68,7 +68,7 @@ header label:hover{
 #toggle{
    display: none;
     }
-@media (max-width:750px){
+@media (max-width:700px){
     header label{
         display: block;
         cursor: pointer;
